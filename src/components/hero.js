@@ -21,6 +21,7 @@ const TextBox = styled('div')`
   justify-content: flex-end;
   padding: 0 calc((100vw - 550px) / 2) 2rem;
   width: 100%;
+  margin-top: 0;
 
   h1 {
     text-shadow: 1px 1px 3px #eeddff66;
